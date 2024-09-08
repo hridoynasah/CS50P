@@ -1,0 +1,15 @@
+OOPs Features:
+i) Class and Object
+ii) Inheritance
+iii) Polymorphism
+iv) Encapsulation
+v) Abstraction
+
+Note:
+i) Each Object has a distinct role or responsibility.
+ii) Object creates space on memory as per class members.
+# Self (referance parameter): Refers current object
+
+# Constructor:
+i) Default Constructor
+ii) Parameterized Constructor

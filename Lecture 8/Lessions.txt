@@ -1,0 +1,4 @@
+# Class is collection of attributes and methods
+
+codeA = default consturctor
+codeB = parameterized default consturctor

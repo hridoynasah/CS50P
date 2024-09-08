@@ -1,0 +1,5 @@
+Understanding the ->  if __name__ == "__main__":
+# Whenever python runs a file at first goes through before even
+runs any code it sets a few special variables and name is one those
+special variables. when python runs a python file directly it sets
+__name__ variable to __main__
